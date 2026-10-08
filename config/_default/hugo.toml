@@ -3,6 +3,8 @@ locale = 'nl-be'
 title = 'STEMkriebels'
 theme = 'ananke'
 
+sectionPagesMenu = 'main'
+
 [params]
   subtitle = 'Laat het kriebelen voor STEM!'
   [params.contact]

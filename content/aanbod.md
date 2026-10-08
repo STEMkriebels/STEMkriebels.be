@@ -1,6 +1,7 @@
 +++
+menus = 'main'
+weight = 20
 title = 'Aanbod'
-menus = 'Aanbod'
 +++
 
 Onderstaand aanbod is gericht op de lagere school. Ik pas me ook steeds aan aan de geldende minimumdoelen - er wordt hoofdzakelijk gewerkt aan de doelen rond computationeel denken.
