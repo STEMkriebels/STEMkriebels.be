@@ -1,0 +1,9 @@
+baseURL = 'https://stemkriebels.be/'
+locale = 'nl-be'
+title = 'STEMkriebels'
+theme = 'ananke'
+
+[params]
+  subtitle = 'Laat het kriebelen voor STEM!'
+  [params.contact]
+    email = 'lisa@stemkriebels.be'

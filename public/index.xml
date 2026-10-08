@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Welkom! on STEMkriebels</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content in Welkom! on STEMkriebels</description>
+		<generator>Hugo</generator>
+		<language>nl-be</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Aanbod</title>
+				<link>http://localhost:1313/aanbod/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/aanbod/</guid>
+				<description>&lt;p&gt;Onderstaand aanbod is gericht op de lagere school. Ik pas me ook steeds aan aan de geldende minimumdoelen - er wordt hoofdzakelijk gewerkt aan de doelen rond computationeel denken.&#xA;Al deze workshops zijn te boeken als alleenstaande workshop (duurtijd: ongeveer 2 uur), maar ook als reeks. Dit kan zowel tijdens de schooluren als erna, als naschoolse activiteit.&lt;/p&gt;&#xA;&lt;h1 id=&#34;ozobot&#34;&gt;Ozobot&lt;/h1&gt;&#xA;&lt;p&gt;Leer spelenderwijs programmeren met de ozobots.&#xA;Deze schattige robotjes worden geprogrammeerd aan de hand van kleurencodes. Dit maakt het geschikt voor jonge leeftijden. Aangezien de robotjes rijden, is het ook nog eens leuk!&#xA;Voor de oudere leerjaren kan dit robotje ook geprogrammeerd worden met een blokkentaal.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
