@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Workshops on STEMkriebels</title>
+		<link>http://localhost:1313/workshops/</link>
+		<description>Recent content in Workshops on STEMkriebels</description>
+		<generator>Hugo</generator>
+		<language>nl-be</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/workshops/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Ozobot</title>
+				<link>http://localhost:1313/workshops/ozobot/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/workshops/ozobot/</guid>
+				<description>&lt;p&gt;Leer spelenderwijs programmeren met de ozobots.&#xA;Deze schattige robotjes worden geprogrammeerd aan de hand van kleurencodes. Dit maakt het geschikt voor jonge leeftijden. Aangezien de robotjes rijden, is het ook nog eens leuk!&#xA;Voor de oudere leerjaren kan dit robotje ook geprogrammeerd worden met een blokkentaal.&lt;/p&gt;&#xA;&lt;p&gt;Aanbevelingen:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Leeftijdscategorie: 1e tot en met 6e leerjaar.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Benodigdheden:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Te voorzien door de leerkracht:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Indien er geprogrammeerd wordt met een blokkentaal: per twee leerlingen een laptop of chromebook, met werkende internetverbinding.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Wordt voorzien door de workshopgever:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;De ozobots.&lt;/li&gt;&#xA;&lt;li&gt;Het materiaal om de kleurencodes te maken (papier/whiteboards/magneten/stiften&amp;hellip;).&lt;/li&gt;&#xA;&lt;li&gt;Uitleg &amp;amp; begeleiding voor de leerlingen.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Micro:bit</title>
+				<link>http://localhost:1313/workshops/microbit/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/workshops/microbit/</guid>
+				<description>&lt;p&gt;Deze kleine bordjes kunnen gebruikt worden om zowel heel simpele als erg uitgebreide projectjes te programmeren, wat de mogelijkheden hiermee eindeloos maakt!&lt;/p&gt;&#xA;&lt;p&gt;Aanbevelingen:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Leeftijdscategorie: 4e tot en met 6e leerjaar (en zelfs begin secundair!).&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Benodigdheden:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Te voorzien door de leerkracht:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Per twee leerlingen een laptop of chromebook, met werkende internetverbinding. Het is niet nodig om iets te installeren. Er is wel een USB-A of USB-C poort nodig om de micro:bit mee te kunnen verbinden.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Wordt voorzien door de workshopgever:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Per twee leerlingen een micro:bit, met bijhorende accessoires zoals verbindingskabel, batterijen&amp;hellip;&lt;/li&gt;&#xA;&lt;li&gt;Uitleg &amp;amp; begeleiding voor de leerlingen.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Vinylcutter</title>
+				<link>http://localhost:1313/workshops/vinylcutter/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/workshops/vinylcutter/</guid>
+				<description>&lt;p&gt;Iets personaliseren was nog nooit zo leuk!&#xA;Ideaal als moeder- of vaderdagcadeau, of voor de leerlingen zelf.&lt;/p&gt;&#xA;&lt;p&gt;De mogelijkheden zijn eindeloos: een koekendoosje, schrift, huiswerkmap, drinkbus&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;We gebruiken stevige stickers, die zijn gesneden met een vinylcutter. Het ontwerp is in overleg: we spreken op voorhand af hoe het personaliseren er zal uitzien.&#xA;Voor de jongere kinderen zullen op voorhand al bepaalde vormen uitgesneden zijn, zoals hun naam en enkele basisvormen - ze moeten enkel beslissen welke vormen waar geplakt worden en brengen zelf de stickers aan. Voor de ouderen kunnen we in samenspraak ze zelf meer betrekken in het ontwerpproces.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

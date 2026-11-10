@@ -3,9 +3,27 @@ locale = 'nl-be'
 title = 'STEMkriebels'
 theme = 'ananke'
 
-sectionPagesMenu = 'main'
+# om HTML in Markdown file te zetten
+[markup.goldmark.renderer]
+unsafe = true
 
 [params]
   subtitle = 'Laat het kriebelen voor STEM!'
+  post_content_classes = "avenir"
   [params.contact]
     email = 'lisa@stemkriebels.be'
+  [params.ananke]
+    show_recent_posts = false
+    show_categories = false
+    custom_css = ["css/workshops.css"]
+
+[menus]
+  [[menus.main]]
+    name = "Welkom!"
+    pageRef = "/"
+    weight = 10
+
+  [[menus.main]]
+    name = "Aanbod"
+    pageRef = "/aanbod"
+    weight = 20
