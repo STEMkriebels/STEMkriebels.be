@@ -22,7 +22,13 @@ Voor de oudere leerjaren kan dit robotje ook geprogrammeerd worden met een blokk
 </div>
 
 Aanbevelingen:
-> Leeftijdscategorie: 1e tot en met 6e leerjaar.
+> Leeftijdscategorie: 1e tot en met 6e leerjaar.  
+> Workshopaantal: ideaal als alleenstaande workshop, ook mogelijk in korte reeks.
+
+Prijzen:
+> Voor schooljaar 2026-2027:  
+> Voor één workshop (duur: 1,5 uur à 2 uur): 6 euro / leerling.  
+> Voor meerdere workshops (na elkaar voor verschillende klassen of reeks voor dezelfde klas): 5 euro / leering / workshop.
 
 Benodigdheden:
 - Te voorzien door de leerkracht:
