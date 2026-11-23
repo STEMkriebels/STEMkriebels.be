@@ -26,3 +26,8 @@ Dit kan op een turnzak, pennenzak, tote bag, t-shirt...
 
 Hiervoor start je met hetzelfde maakproces als de stickers, alleen komt er nog een stapje bij. De folie zal niet zomaar kleven op het textiel, maar moet worden aangebracht met een hittepers.
 De oudere leerlingen kunnen zelf met de hittepers hun textiel bedrukken - bij de jongere leerlingen doen we dit voor hen.
+
+Prijzen:
+> Voor schooljaar 2026-2027:  
+> Voor workshop koekendoosje: 9 euro / leerling; inclusief alle materiaalkosten (vinyl, koekendoosje...)  
+> Andere workshop prijzen op aanvraag.
