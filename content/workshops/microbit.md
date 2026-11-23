@@ -9,6 +9,12 @@ Deze kleine bordjes kunnen gebruikt worden om zowel heel simpele als erg uitgebr
 
 Aanbevelingen:
 > Leeftijdscategorie: 4e tot en met 6e leerjaar (en zelfs begin secundair!).
+> Workshopaantal: ideaal als reeks, maar ook mogelijk als alleenstaande workshop.
+
+Prijzen:
+> Voor schooljaar 2026-2027:  
+> Voor één workshop (duur: 1,5 uur à 2 uur): 6 euro / leerling.  
+> Voor meerdere workshops (na elkaar voor verschillende klassen of reeks voor dezelfde klas): 5 euro / leering / workshop.
 
 Benodigdheden:
 - Te voorzien door de leerkracht:
