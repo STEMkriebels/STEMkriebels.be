@@ -27,3 +27,8 @@ unsafe = true
     name = "Aanbod"
     pageRef = "/aanbod"
     weight = 20
+
+  [[menus.main]]
+    name = "Over Mij"
+    pageRef = "/overmij"
+    weight = 30
